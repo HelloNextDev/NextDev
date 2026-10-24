@@ -1,6 +1,6 @@
 ### AcWing原题链接 [901. 滑雪 - AcWing题库](https://www.acwing.com/problem/content/903/)
-
-## 题目描述
+---
+### 题目描述
 给定一个 $R$ 行 $C$ 列的矩阵，表示一个矩形网格滑雪场。
 
 矩阵中第 $i$ 行第 $j$ 列的点表示滑雪场的第 $i$ 行第 $j$ 列区域的高度。
@@ -55,5 +55,5 @@ $0≤矩阵中整数≤10000$
 ### 题目讲解
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODgxMjM5Ml19
+eyJoaXN0b3J5IjpbLTEwMTYzNjM5MTBdfQ==
 -->
