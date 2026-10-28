@@ -6,7 +6,7 @@
 
 ---
 ### 目录
-- [动态规划DP 基础](https://hellonextdev.github.io/NextDev/动态规划DP-基础/题目/AcWing-901.滑雪)
+- [动态规划DP 基础](https://hellonextdev.github.io/NextDev/CSP-J考点代码模板/index)
 ### 其它
 - [CSP-J考点代码模板（初版）]()
 
@@ -14,7 +14,7 @@
 > 作者水平有限，有错误与不足可以给 [作者洛谷](https://www.luogu.com.cn/user/1708408) 发送私信进行反馈。
 > MarkDown的学习请访问：[Markdown官方教程](https://markdown.com.cn/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkzODk3ODMsMTg1MzExMDQ0OCwtMj
-EyOTYwMzc0MywtMTkwMjQ4NTY5OCwxMDAxMjk3ODI0LC0xMjM1
-NDcwOTgyXX0=
+eyJoaXN0b3J5IjpbNjY5NDMxODQyLDE4NTMxMTA0NDgsLTIxMj
+k2MDM3NDMsLTE5MDI0ODU2OTgsMTAwMTI5NzgyNCwtMTIzNTQ3
+MDk4Ml19
 -->
