@@ -6,11 +6,11 @@
 
 ---
 ### 总目录
-- 
-
+- [动态规划 DP]
 
 > *参考资料：[AcWing](https://www.acwing.com) / [Luogu](https://www.luogu.com.cn) 的课程与题目，部分页面由 [DeepSeek](https://www.deepseek.com) 美化/整理*
-> 作者水平有限，有错误与不足请给
+> 作者水平有限，有错误与不足可以给 [作者洛谷](https://www.luogu.com.cn/user/1708408) 发送私信进行反馈。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTc0MDg4OCwtMTIzNTQ3MDk4Ml19
+eyJoaXN0b3J5IjpbLTE2MjMwNTMxMDUsLTEyMzU0NzA5ODJdfQ
+==
 -->
