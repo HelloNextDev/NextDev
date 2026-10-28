@@ -9,7 +9,7 @@
 - 
 
 
-> 参考资料：[]Acw
+> 参考资料：[AcWing](https://www.acwing.com) 和 [Luogu](https://www.luogu.com.cb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMjE2MTMxLC0xMjM1NDcwOTgyXX0=
+eyJoaXN0b3J5IjpbMTk0NDkwMDI1LC0xMjM1NDcwOTgyXX0=
 -->
