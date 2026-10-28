@@ -1,4 +1,4 @@
-# C++算法 笔记与代码
+# C++语法/算法 笔记与代码
 
 欢迎来到我的笔记空间！
 这里会整理一些有用的笔记，方便复习。
@@ -14,7 +14,7 @@
 > 作者水平有限，有错误与不足可以给 [作者洛谷](https://www.luogu.com.cn/user/1708408) 发送私信进行反馈。
 > MarkDown的学习请访问：[Markdown官方教程](https://markdown.com.cn/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTk0NDY1OCwxODUzMTEwNDQ4LC0yMT
-I5NjAzNzQzLC0xOTAyNDg1Njk4LDEwMDEyOTc4MjQsLTEyMzU0
-NzA5ODJdfQ==
+eyJoaXN0b3J5IjpbLTExNTkzODk3ODMsMTg1MzExMDQ0OCwtMj
+EyOTYwMzc0MywtMTkwMjQ4NTY5OCwxMDAxMjk3ODI0LC0xMjM1
+NDcwOTgyXX0=
 -->
