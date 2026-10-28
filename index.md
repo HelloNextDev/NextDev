@@ -9,7 +9,9 @@
 - 
 
 
-> 参考资料：[AcWing](https://www.acwing.com) 和 [Luogu](https://www.luogu.com.cb)
+> 参考资料：[AcWing](https://www.acwing.com) / [Luogu](https://www.luogu.com.cn) 的课程与题目
+> *部分页面由[DeepSeek](https://www.deepseek.com)整理并chuan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDkwMDI1LC0xMjM1NDcwOTgyXX0=
+eyJoaXN0b3J5IjpbLTEyMjU0MjE1MDAsLTEyMzU0NzA5ODJdfQ
+==
 -->
