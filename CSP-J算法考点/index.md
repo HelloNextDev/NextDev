@@ -11,8 +11,9 @@
 |J5.5|栈与队列|
 |J6|字符串处理|
 |J7|搜索（DFS/BFS）|
+|J8|动态规划（基础）|
 
 > *不保证整理知识的难度递增*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU4NjI4NjRdfQ==
+eyJoaXN0b3J5IjpbMjEwODUzODU3MF19
 -->
