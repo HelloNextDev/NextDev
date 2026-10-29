@@ -6,7 +6,6 @@
 
 ---
 ### 目录
-- [动态规划DP 基础](https://hellonextdev.github.io/NextDev/CSP-J考点代码模板/index)
 
 ### 其它
 - [CSP-J考点代码模板（初版）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/index)
@@ -15,7 +14,8 @@
 > 作者水平有限，有错误与不足可以给 [作者洛谷](https://www.luogu.com.cn/user/1708408) 发送私信进行反馈。
 > MarkDown的学习请访问：[Markdown官方教程](https://markdown.com.cn/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA2NTgyNTAsLTE3MzkyNjQ0MjQsNj
-Y5NDMxODQyLDE4NTMxMTA0NDgsLTIxMjk2MDM3NDMsLTE5MDI0
-ODU2OTgsMTAwMTI5NzgyNCwtMTIzNTQ3MDk4Ml19
+eyJoaXN0b3J5IjpbLTgwMjY3MDcwMywtMTY5MDY1ODI1MCwtMT
+czOTI2NDQyNCw2Njk0MzE4NDIsMTg1MzExMDQ0OCwtMjEyOTYw
+Mzc0MywtMTkwMjQ4NTY5OCwxMDAxMjk3ODI0LC0xMjM1NDcwOT
+gyXX0=
 -->
