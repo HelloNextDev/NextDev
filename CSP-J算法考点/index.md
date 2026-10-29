@@ -33,10 +33,15 @@
 ### 笔记跳转
 
 [J1.模拟、枚举和字符串](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟、枚举和字符串)
+
 [J2.排序](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J2.排序)
+
 [J3.贪心](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J3.贪心)
+
 [J4.前缀和与差分](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J4.前缀和与差分)
+
 [J5.二分（基础）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J5.二分（基础）)
+
 [J6.栈与队列（了解）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J6.栈与队列（了解）)
 
 [J1.模拟、枚举和字符串](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟、枚举和字符串)
@@ -51,6 +56,6 @@
 [J1.模拟、枚举和字符串](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟、枚举和字符串)
 [J1.模拟、枚举和字符串](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟、枚举和字符串)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjQyMjQ4MiwtNTg4ODY3NzcwLC0xMz
-Q3NzMxNDIsMTc5OTA3NDY4MF19
+eyJoaXN0b3J5IjpbNDY5MzczMDIwLC01ODg4Njc3NzAsLTEzND
+c3MzE0MiwxNzk5MDc0NjgwXX0=
 -->
