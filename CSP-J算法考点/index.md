@@ -16,10 +16,10 @@
 
 |序号|主要内容|序号|主要内容|
 |--|--|--|--|
-|*J10|图论（基础）|*J14|分治|
-|*J11|数学|*J15|递归与回溯|
-|*J12|位运算|*J16|高精度|
-|*J13|数据结构（基础）|*J17|哈希表|
+|*J10|图论（基础）|
+|*J11|数学|*J16|高精度|
+|*J12|位运算|*J17|哈希表|
+|*J13|数据结构（基础）|-|-|
 
 ### 考试策略建议
 
@@ -41,6 +41,6 @@
 - [J7.搜索（DFS BFS）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J7.搜索（DFS BFS）)
 - [J8.动态规划（基础）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J8.动态规划（基础）)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MjU2NjIyLC01ODg4Njc3NzAsLTEzND
-c3MzE0MiwxNzk5MDc0NjgwXX0=
+eyJoaXN0b3J5IjpbLTE5NzA2ODc1NTMsLTU4ODg2Nzc3MCwtMT
+M0NzczMTQyLDE3OTkwNzQ2ODBdfQ==
 -->
