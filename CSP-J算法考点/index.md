@@ -7,10 +7,11 @@
 |J2|二分|
 |J3|前缀和与差分|
 |J4|贪心|
-|||
-|J？|数组模拟栈、模拟队列、模拟链表、模拟队列|
+|J5|数组模拟栈、模拟队列、模拟链表、模拟队列|
+|J5.5|栈与队列|
+|J6|字符串处理|
 
 > *不保证整理知识的难度递增*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTQ3Mjg3MF19
+eyJoaXN0b3J5IjpbLTE1MzYwOTQyMTddfQ==
 -->
