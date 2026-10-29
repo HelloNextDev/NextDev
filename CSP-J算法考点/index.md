@@ -16,10 +16,9 @@
 
 |序号|主要内容|序号|主要内容|
 |--|--|--|--|
-|*J10|图论（基础）|
-|*J11|数学|*J16|高精度|
-|*J12|位运算|*J17|哈希表|
-|*J13|数据结构（基础）|-|-|
+|*J10|图论（基础）|*J13|数据结构（基础）
+|*J11|数学|*J14|高精度|
+|*J12|位运算|*J15|哈希表|
 
 ### 考试策略建议
 
@@ -41,6 +40,6 @@
 - [J7.搜索（DFS BFS）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J7.搜索（DFS BFS）)
 - [J8.动态规划（基础）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J8.动态规划（基础）)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA2ODc1NTMsLTU4ODg2Nzc3MCwtMT
-M0NzczMTQyLDE3OTkwNzQ2ODBdfQ==
+eyJoaXN0b3J5IjpbLTcxMDM2MDc5MywtNTg4ODY3NzcwLC0xMz
+Q3NzMxNDIsMTc5OTA3NDY4MF19
 -->
