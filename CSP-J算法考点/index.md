@@ -46,7 +46,7 @@
 ---
 ### 原文链接
 
-[J1.模拟]()
+[J1.模拟](http/CSP-J算法考点/J1.模拟.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjM0MTEzMCwxNzk5MDc0NjgwXX0=
+eyJoaXN0b3J5IjpbMjA2MzM0NzYxMywxNzk5MDc0NjgwXX0=
 -->
