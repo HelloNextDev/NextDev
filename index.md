@@ -10,11 +10,11 @@
 ### 其它
 - [CSP-J考点代码模板（初版）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/index)
 
-> 参考资料：[AcWing](https://www.acwing.com) / [Luogu](https://www.luogu.com.cn) 的课程与题目，NOIg[NOI算法大纲](https://www.noi.cn/upload/resources/file/2025/04/18/NOI_Syllabus_Edition_2025.pdf)，部分页面由 [DeepSeek](https://www.deepseek.com) 美化/整理。
+> 参考资料：[AcWing](https://www.acwing.com) / [Luogu](https://www.luogu.com.cn) 的课程与题目，NOI官网的 [NOI算法大纲](https://www.noi.cn/upload/resources/file/2025/04/18/NOI_Syllabus_Edition_2025.pdf)，部分页面由 [DeepSeek](https://www.deepseek.com) 美化/整理。
 > 作者水平有限，有错误与不足可以给 [作者洛谷](https://www.luogu.com.cn/user/1708408) 发送私信进行反馈。
 > MarkDown的学习请访问：[Markdown官方教程](https://markdown.com.cn/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDU3OTE1NywtMTY5MDY1ODI1MCwtMT
+eyJoaXN0b3J5IjpbMTM5NTY0NDM4NywtMTY5MDY1ODI1MCwtMT
 czOTI2NDQyNCw2Njk0MzE4NDIsMTg1MzExMDQ0OCwtMjEyOTYw
 Mzc0MywtMTkwMjQ4NTY5OCwxMDAxMjk3ODI0LC0xMjM1NDcwOT
 gyXX0=
