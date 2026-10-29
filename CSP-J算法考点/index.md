@@ -36,9 +36,10 @@
 - [J4.前缀和与差分](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J4.前缀和与差分)
 - [J5.二分（基础）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J5.二分（基础）)
 - [J6.栈与队列（了解）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J6.栈与队列（了解）)
-- [J7.搜索（DFS BFS）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J7.搜索（DFS BFS）)
+- [J7.搜索（DFS_BFS）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J7.搜索（DFS_BFS）)
 - [J8.动态规划（基础）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J8.动态规划（基础）)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIyMDYyMzUsLTcxMDM2MDc5MywtNT
-g4ODY3NzcwLC0xMzQ3NzMxNDIsMTc5OTA3NDY4MF19
+eyJoaXN0b3J5IjpbLTM2NDkwNDQ0MywtMTE2MjIwNjIzNSwtNz
+EwMzYwNzkzLC01ODg4Njc3NzAsLTEzNDc3MzE0MiwxNzk5MDc0
+NjgwXX0=
 -->
