@@ -7,7 +7,24 @@
 |序号|主要内容|序号|主要内容|
 |--|--|--|--|
 |J1|模拟、枚举和字符串|J6|栈与队列（了解）|
-|J2|排序|J7|搜索（DFS/BFS）|
+|J2|排序|J7|搜索（DFS 137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+BFS）|
 |J3|贪心|J8|动态规划（基础）|
 |J4|前缀和与差分|-|-|
 |J5|二分（基础）|-|-|
@@ -39,6 +56,6 @@
 - [J5.二分（基础）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J5.二分（基础）)
 - [J6.栈与队列（了解）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J6.栈与队列（了解）)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5NjEwNzUsLTU4ODg2Nzc3MCwtMTM0Nz
-czMTQyLDE3OTkwNzQ2ODBdfQ==
+eyJoaXN0b3J5IjpbNTczMDI0NDg5LC01ODg4Njc3NzAsLTEzND
+c3MzE0MiwxNzk5MDc0NjgwXX0=
 -->
