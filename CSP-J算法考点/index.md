@@ -7,8 +7,8 @@
 |序号|主要内容|序号|主要内容|
 |--|--|--|--|
 |J1|模拟、枚举和字符串|J6|栈与队列（了解）|
-|J2|排序|J8|搜索（DFS/BFS）|
-|J3|贪心|J9|动态规划（基础）|
+|J2|排序|J7|搜索（DFS/BFS）|
+|J3|贪心|J8|动态规划（基础）|
 |J4|前缀和与差分|-|-|
 |J5|二分（基础）|-|-|
 
@@ -34,6 +34,6 @@
 
 [J1.模拟、枚举和字符串](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟、枚举和字符串)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTExNDgyNCwtMTM0NzczMTQyLDE3OT
+eyJoaXN0b3J5IjpbLTU4ODg2Nzc3MCwtMTM0NzczMTQyLDE3OT
 kwNzQ2ODBdfQ==
 -->
