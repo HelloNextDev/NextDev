@@ -32,10 +32,15 @@
 |J17|哈希表|
 
 ### 考试策略建议
+|优先级|内容|时间|
+|--|--|--|
+|★★★★★|模拟、排序、二分、贪心、DP基础|60%|
+|★★★★|搜索、图论基础、字符串、数学|30%
+||||
 
 ---
 ### 原文链接
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzQ3Njc3OV19
+eyJoaXN0b3J5IjpbMTg4MDg4MTA5Ml19
 -->
