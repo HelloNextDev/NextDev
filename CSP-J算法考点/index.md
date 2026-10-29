@@ -46,7 +46,8 @@
 ---
 ### 原文链接
 
-[J1.模拟](https://github.com/HelloNextDev/NextDev/CSP-J算法考点/J1.模拟.md)
+[J1.模拟](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc3MzE0MiwxNzk5MDc0NjgwXX0=
+eyJoaXN0b3J5IjpbMTcyMTgwOTA0NywtMTM0NzczMTQyLDE3OT
+kwNzQ2ODBdfQ==
 -->
