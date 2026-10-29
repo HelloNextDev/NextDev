@@ -4,8 +4,8 @@
 
 ### 高频考点
 
-|序号|主要内容|
-|--|--|
+|序号|主要内容|序号|主要内容|
+|--|--|--|--|
 |J1|模拟|
 |J2|排序|
 |J3|贪心|
@@ -43,11 +43,8 @@
 |★★★|数据结构、位运算、分治|10%|
 |★★|高精度、哈希|看剩余时间，不建议优先考虑|
 
----
-### 原文链接
-
 [J1.模拟](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTgwOTA0NywtMTM0NzczMTQyLDE3OT
-kwNzQ2ODBdfQ==
+eyJoaXN0b3J5IjpbLTEzMDAwNjE5MDQsLTEzNDc3MzE0MiwxNz
+k5MDc0NjgwXX0=
 -->
