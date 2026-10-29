@@ -6,11 +6,11 @@
 
 |序号|主要内容|序号|主要内容|
 |--|--|--|--|
-|J1|模拟|J6|栈与队列|
-|J2|排序|J7|字符串处理|
-|J3|贪心|J8|搜索（DFS/BFS）|
-|J4|前缀和与差分|J9|动态规划（基础）|
-|J5|二分|-|-|
+|J1|模拟|J6|栈与队列（了解）|
+|J2|排序|J8|搜索（DFS/BFS）|
+|J3|贪心|J9|动态规划（基础）|
+|J4|前缀和与差分|-|-|
+|J5|二分（基础）|-|-|
 
 ### 中低频考点
 
@@ -34,6 +34,6 @@
 
 [J1.模拟](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzMxMTU3MSwtMTM0NzczMTQyLDE3OT
-kwNzQ2ODBdfQ==
+eyJoaXN0b3J5IjpbODA2NzM0MzM2LC0xMzQ3NzMxNDIsMTc5OT
+A3NDY4MF19
 -->
