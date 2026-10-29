@@ -10,8 +10,9 @@
 |J5|数组模拟栈、模拟队列、模拟链表、模拟队列|
 |J5.5|栈与队列|
 |J6|字符串处理|
+|J7|搜索（DFS/BFS）|
 
 > *不保证整理知识的难度递增*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYwOTQyMTddfQ==
+eyJoaXN0b3J5IjpbLTIwMjU4NjI4NjRdfQ==
 -->
