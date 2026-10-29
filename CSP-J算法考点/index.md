@@ -6,7 +6,7 @@
 
 |序号|主要内容|序号|主要内容|
 |--|--|--|--|
-|J1|模拟|J6|栈与队列（了解）|
+|J1|模拟、枚举和字符串|J6|栈与队列（了解）|
 |J2|排序|J8|搜索（DFS/BFS）|
 |J3|贪心|J9|动态规划（基础）|
 |J4|前缀和与差分|-|-|
@@ -34,6 +34,6 @@
 
 [J1.模拟](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2NzM0MzM2LC0xMzQ3NzMxNDIsMTc5OT
-A3NDY4MF19
+eyJoaXN0b3J5IjpbLTMyOTM4MDc0NCwtMTM0NzczMTQyLDE3OT
+kwNzQ2ODBdfQ==
 -->
