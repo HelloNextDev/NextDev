@@ -39,7 +39,8 @@
 - [J5.二分（基础）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J5.二分（基础）)
 - [J6.栈与队列（了解）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J6.栈与队列（了解）)
 - [J7.搜索（DFS BFS）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J7.搜索（DFS BFS）)
+- [J8.动态规划（基础）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J8.动态规划（基础）)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMTIxMTUyLC01ODg4Njc3NzAsLTEzND
-c3MzE0MiwxNzk5MDc0NjgwXX0=
+eyJoaXN0b3J5IjpbLTQ5NTEyMDQ2OCwtNTg4ODY3NzcwLC0xMz
+Q3NzMxNDIsMTc5OTA3NDY4MF19
 -->
