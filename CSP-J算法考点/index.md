@@ -32,8 +32,8 @@
 
 ### 笔记跳转
 
-[J1.模拟](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟)
+[J1.模拟、枚举和字符串](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J1.模拟、枚举和字符串)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTM4MDc0NCwtMTM0NzczMTQyLDE3OT
+eyJoaXN0b3J5IjpbMTk1OTExNDgyNCwtMTM0NzczMTQyLDE3OT
 kwNzQ2ODBdfQ==
 -->
