@@ -6,11 +6,10 @@
 
 |序号|主要内容|序号|主要内容|
 |--|--|--|--|
-|J1|模拟、枚举和字符串|J6|栈与队列（了解）|
-|J2|排序|J7|搜索（DFS BFS）|
-|J3|贪心|J8|动态规划（基础）|
-|J4|前缀和与差分|-|-|
-|J5|二分（基础）|-|-|
+|J1|模拟、枚举和字符串|J5|二分（基础）|
+|J2|排序|J6|栈与队列（了解）|
+|J3|贪心|J7|搜索（DFS BFS）|
+|J4|前缀和与差分|J8|动态规划（基础）|
 
 ### 中低频考点
 
@@ -40,6 +39,6 @@
 - [J7.搜索（DFS BFS）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J7.搜索（DFS BFS）)
 - [J8.动态规划（基础）](https://hellonextdev.github.io/NextDev/CSP-J算法考点/J8.动态规划（基础）)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDM2MDc5MywtNTg4ODY3NzcwLC0xMz
-Q3NzMxNDIsMTc5OTA3NDY4MF19
+eyJoaXN0b3J5IjpbLTExNjIyMDYyMzUsLTcxMDM2MDc5MywtNT
+g4ODY3NzcwLC0xMzQ3NzMxNDIsMTc5OTA3NDY4MF19
 -->
